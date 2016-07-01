@@ -1,5 +1,7 @@
 # woonocomment
+
 wordpress plugin - Suppresses feedback products in WooCommerce
+
 === Woo No Comments ===
 Contributors: Manuel Flores
 Tags: Woocommerce - Functions
